@@ -1,0 +1,9 @@
+
+# Generated logs
+Logs/*.log
+
+# Backup copies and test data
+Backup/Files/
+
+# Temporary test file
+test-backup.txt
